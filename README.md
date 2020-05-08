@@ -3,9 +3,9 @@
 ## Libraries:
 * Pandas           
 
-*Matplotlib           
+* Matplotlib           
 
-*Seaborn           
+* Seaborn           
 
 ## Overview
 In this Data Analysis, I have answered one of the most asked questions right now. Can anyone get a job as a data scientist, back end developer, front end developer, machine learning engineer or any other kind of computer related jobs, without a College degree?     
@@ -21,8 +21,10 @@ A special thanks to the Stack Overflow Annual Developer Survey 2019, as we will 
 ## Description:
 After conducting the analysis, I have came to the following conclusions.
 1. The survey is relevant for this investigation because about 75% of all respondents are working professional developers.      
-2. 
+2. A big majority of the professional developers have a degree. However, further investigation indicated that this is not an issue, as not all of those working have a degree in CS, CE or SE.      
+3. A final investigation has been undertook to understand what the individuals whithout a College degree in CS, CE or SE actually did to learn coding. The two main things that they did was self-learning and MOOCs.
 
-The dataset used is from: https://insights.stackoverflow.com/survey
+## References
+The dataset used is from [here](https://insights.stackoverflow.com/survey)
 
-My blogpost is: https://karimelkanj.github.io/blog/professional-developer-no-college-degree/
+Check my [blogpost](https://karimelkanj.github.io/blog/professional-developer-no-college-degree/) as well for further analysis.
